@@ -44,7 +44,6 @@ html, body, main {
   overflow: hidden;
 }
 .diamond {
-  background-image: url('diamond.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
